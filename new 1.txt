@@ -1,0 +1,38 @@
+---Image Directory
+G:\Data\16IDB_2015-2\Shelton\tremolite\P1\
+---Output directory
+G:\Data\16IDB_2015-2\Shelton\tremolite\Analysis\
+---Image
+B4_tremolite_P1_C1_D1s_101.tif
+---Start number
+101
+---Number of images
+46
+---Calibration
+G:\Data\16IDB_2015-2\Shelton\tremolite\P1\B4_tremolite_P1_C1_D1s_.cal
+---UB matrix
+G:\Data\16IDB_2015-2\Shelton\tremolite\P1\B4_tremolite_P1_C1_D1s_.ub
+---Options
+**Zero offset
+0
+**Invert phi
+1
+**Fit peaks
+1
+**Use compression
+1
+**DAC absorption (leave empty is no absorption, file name for parameters file, if use absorption)
+G:\Data\16IDB_2015-2\Shelton\tremolite\P1\B4_tremolite_P1_C1_D1s_.ub
+**Vertical polarization
+0
+**Calibration XYX (0) vs Y-Z(1)
+0
+**Box size
+8
+**Observed min counts
+30
+**DAC opening
+40
+**Bravais lattice type
+C
+===================================================================================================
